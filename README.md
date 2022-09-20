@@ -10,12 +10,17 @@ downliad HCI dataset:
 https://lightfield-analysis.uni-konstanz.de/
 
 # Dependcies:
-. python 3.6
-. numpy
-. Tensorflow 1.12
-. matplotlib
-. opencv-python 4.1
-. imageio
+python 3.6
+
+numpy
+
+Tensorflow 1.12
+
+matplotlib
+
+opencv-python 4.1
+
+imageio
 
 # Train:
 python train.py
