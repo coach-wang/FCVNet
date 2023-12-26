@@ -1,7 +1,8 @@
 # FCVNet
 code of FCVNet
 
-paper link: coming soon!
+paper link: 
+https://www.sciencedirect.com/science/article/abs/pii/S0143816622003529
 
 ckpt download:
 https://drive.google.com/file/d/1IrkQW7OVEDWu9Rwc3-BeuHV5FyyYJl-o/view?usp=sharing
